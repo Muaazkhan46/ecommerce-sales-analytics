@@ -48,4 +48,7 @@ The project was built using Python, SQL, Pandas, and Matplotlib to simulate real
 ## Dataset
 Olist E-commerce Dataset
 
+## AI-Powered Insights
+
+The project also includes automated business insight generation based on customer behavior, payment trends, and sales analytics to simulate AI-powered analytics workflows.
 
